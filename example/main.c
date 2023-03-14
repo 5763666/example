@@ -9,6 +9,6 @@ int main() {
 		}
 		if (k == i)	result += k;
 	}
-	printf("1부터 100까지의 소수의 합 : %d", result);
+	printf("result : %d", result);
 	return 0;
 }
